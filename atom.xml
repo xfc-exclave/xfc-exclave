@@ -5180,6 +5180,19 @@ npm run start
         <updated>2021-08-03T13:38:41.000Z</updated>
     </entry>
     <entry>
+        <id>https://xfc-exclave.github.io/language/japanese/standard-japanese/standard-japanese-02/</id>
+        <title>標準日本語の入門（一）</title>
+        <link rel="alternate" href="https://xfc-exclave.github.io/language/japanese/standard-japanese/standard-japanese-02/"/>
+        <content type="html">&lt;h3 id=&#34;课目&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课目&#34;&gt;#&lt;/a&gt; 课目&lt;/h3&gt;
+&lt;h4 id=&#34;第五课李さんは-中国人です&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五课李さんは-中国人です&#34;&gt;#&lt;/a&gt; 第五课：李さんは　中国人です&lt;/h4&gt;
+</content>
+        <category term="语言学习" scheme="https://xfc-exclave.github.io/categories/language/" />
+        <category term="日语" scheme="https://xfc-exclave.github.io/categories/language/japanese/" />
+        <category term="標準日本語入門" scheme="https://xfc-exclave.github.io/categories/language/japanese/standard-japanese/" />
+        <category term="日本語" scheme="https://xfc-exclave.github.io/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/" />
+        <updated>2021-08-01T16:00:00.000Z</updated>
+    </entry>
+    <entry>
         <id>https://xfc-exclave.github.io/language/japanese/standard-japanese/standard-japanese-01/</id>
         <title>標準日本語の入門（一）</title>
         <link rel="alternate" href="https://xfc-exclave.github.io/language/japanese/standard-japanese/standard-japanese-01/"/>
@@ -5786,19 +5799,15 @@ npm run start
 &lt;p&gt;课文三&lt;/p&gt;
 &lt;p&gt;出迎え&lt;/p&gt;
 &lt;p&gt;李：ＪＣ企画の小野さんですか。&lt;/p&gt;
-&lt;p&gt;小野：はい、小野です，李秀麗さんですか。&lt;/p&gt;
+&lt;p&gt;小野：はい、小野です，&lt;ruby&gt;李秀麗&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;りしゅれい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; さんですか。&lt;/p&gt;
 &lt;p&gt;李：はい、李秀麗です，はじめまして。どうぞ　よろしく　お願いします。&lt;/p&gt;
-&lt;p&gt;小野：はじめまして，小野緑です。&lt;/p&gt;
+&lt;p&gt;小野：はじめまして，小野&lt;ruby&gt;緑&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;みどり&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; です。&lt;/p&gt;
 &lt;p&gt;森：李さん，こんにちは。&lt;/p&gt;
 &lt;p&gt;李：吉田さんですか。&lt;/p&gt;
 &lt;p&gt;森：いいえ，わたしは吉田じゃ　ありません。森です。&lt;/p&gt;
 &lt;p&gt;李：あっ，森さんですか。どうも　すみません。&lt;/p&gt;
 &lt;p&gt;森：いいえ，どうぞ　よろしく。&lt;/p&gt;
 &lt;p&gt;李：李秀麗です。こちらこそ，よろしくお願いします。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;李秀（シュウ）麗（レイ）&lt;/p&gt;
-&lt;p&gt;小野緑（みどり）&lt;/p&gt;
-&lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h5 id=&#34;语法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#语法&#34;&gt;#&lt;/a&gt; 语法&lt;/h5&gt;
@@ -6556,12 +6565,9 @@ npm run start
 &lt;li&gt;
 &lt;p&gt;课文一&lt;/p&gt;
 &lt;p&gt;ここは　デパートです。&lt;/p&gt;
-&lt;p&gt;食堂は　でバートの 7 階ですか。&lt;/p&gt;
+&lt;p&gt;食堂は　でバートの 7&lt;ruby&gt; 階&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;かい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; ですか。&lt;/p&gt;
 &lt;p&gt;あそこも　ＪＣ企画のビルです。&lt;/p&gt;
 &lt;p&gt;かばん売り場は　1 階ですか、2 階ですか。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;7 階（かい）&lt;/p&gt;
-&lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;课文二&lt;/p&gt;
@@ -6570,12 +6576,9 @@ npm run start
 &lt;p&gt;ここは　郵便局ですか、銀行ですか。&lt;/p&gt;
 &lt;p&gt;銀行です。&lt;/p&gt;
 &lt;p&gt;これは　いくらですか。&lt;/p&gt;
-&lt;p&gt;それは　5800 円です。&lt;/p&gt;
+&lt;p&gt;それは　5800&lt;ruby&gt; 円&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;えん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; です。&lt;/p&gt;
 &lt;p&gt;あれは？&lt;/p&gt;
 &lt;p&gt;あれも　5800 円です。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;5800 円（えん）&lt;/p&gt;
-&lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;课文三&lt;/p&gt;
@@ -6950,10 +6953,10 @@ npm run start
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;课文一&lt;/p&gt;
-&lt;p&gt;部屋に　机といすがあります。&lt;/p&gt;
-&lt;p&gt;机の上に　猫がいます。&lt;/p&gt;
-&lt;p&gt;売店は　駅の外にあります。&lt;/p&gt;
-&lt;p&gt;吉田さんは　庭にいます。&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;部屋&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;へや&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; に　&lt;ruby&gt;机&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;つくえ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; といすがあります。&lt;/p&gt;
+&lt;p&gt;机の&lt;ruby&gt;上&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;うえ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; に　&lt;ruby&gt;猫&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;ねこ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; がいます。&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;売店&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;ばいてん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; は　駅の外にあります。&lt;/p&gt;
+&lt;p&gt;吉田さんは　&lt;ruby&gt;庭&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;にわ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; にいます。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;课文二&lt;/p&gt;

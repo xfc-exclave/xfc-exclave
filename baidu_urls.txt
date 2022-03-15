@@ -1,3 +1,4 @@
+https://www.chinmoku.cc/computer-science/java-learning-path/3-advanced/redis-tutorial/
 https://www.chinmoku.cc/blog-log/
 https://www.chinmoku.cc/computer-science/java-learning-path/2-intermediate/dubbo-tutorial/
 https://www.chinmoku.cc/computer-science/java-learning-path/3-advanced/mongodb-tutorial/

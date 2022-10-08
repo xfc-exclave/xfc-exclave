@@ -1,4 +1,3 @@
-https://www.chinmoku.cc/computer-science/java-learning-path/1-basic/01-java-basic/
 https://www.chinmoku.cc/computer-science/easymark/readme/
 https://www.chinmoku.cc/computer-science/web/react-tutorial/
 https://www.chinmoku.cc/computer-science/java-learning-path/3-advanced/redis-tutorial/
@@ -12,6 +11,7 @@ https://www.chinmoku.cc/computer-science/python/python-all-base/
 https://www.chinmoku.cc/computer-science/java-learning-path/2-intermediate/webservice-tutorial/
 https://www.chinmoku.cc/computer-science/java-learning-path/2-intermediate/springcloud-tutorial/
 https://www.chinmoku.cc/computer-science/java-learning-path/1-basic/02-java-concurrency/
+https://www.chinmoku.cc/computer-science/java-learning-path/1-basic/01-java-basic/
 https://www.chinmoku.cc/computer-science/java-learning-path/2-intermediate/mybatis-tutorial/
 https://www.chinmoku.cc/computer-science/java-learning-path/2-intermediate/spring-tutorial/
 https://www.chinmoku.cc/computer-science/java-learning-path/5-framework/docker-tutorial/

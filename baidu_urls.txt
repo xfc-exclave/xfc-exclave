@@ -1,4 +1,3 @@
-https://www.chinmoku.cc/computer-science/easymark/readme/
 https://www.chinmoku.cc/computer-science/web/react-tutorial/
 https://www.chinmoku.cc/computer-science/java-learning-path/3-advanced/redis-tutorial/
 https://www.chinmoku.cc/blog-log/
